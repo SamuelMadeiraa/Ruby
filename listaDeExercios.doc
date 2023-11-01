@@ -1,0 +1,41 @@
+Básicos:
+Escreva um programa que verifique se um número é par ou ímpar.
+Dado um número, verifique se ele está entre 10 e 20.
+Verifique se uma letra é vogal ou consoante.
+Dado o preço de um produto, aplique 10% de desconto se o valor for superior a R$100.
+
+Usando else if:
+Dado uma nota de 0 a 100, classifique-a em "Reprovado", "Recuperação" ou "Aprovado".
+Verifique se um ano é bissexto.
+Dado um mês, retorne o número de dias desse mês.
+Classifique uma pessoa com base na idade em: "Criança", "Adolescente", "Adulto" ou "Idoso".
+
+Usando operador ternário:
+Verifique se um número é positivo, negativo ou zero.
+Dado dois números, retorne o maior.
+Dado três números, retorne o menor.
+Verifique se um número é múltiplo de 5.
+
+Aninhados:
+Dado três números, retorne o maior.
+Verifique se um número é divisível por 2 e 3 ao mesmo tempo.
+Dado a altura e o peso de uma pessoa, calcule o IMC e classifique-o.
+Dado o dia, mês e ano, verifique se a data é válida.
+
+Com switch:
+Dado um número de 1 a 7, retorne o dia da semana correspondente.
+Crie um menu simples de calculadora com as operações: Adição, Subtração, Multiplicação e Divisão.
+Dado um mês, retorne a estação do ano correspondente.
+Crie um programa que, dado um tipo de veículo ("carro", "moto", "bicicleta"), retorne a quantidade de rodas.
+
+Avançados:
+Dado um caractere, verifique se é um número, uma letra minúscula ou uma letra maiúscula.
+Escreva um programa que aceite três ângulos de um triângulo e verifique se eles podem formar um triângulo válido.
+Dado um número, verifique se ele é primo.
+Dado um número, determine se ele é perfeito (a soma de seus divisores, exceto ele mesmo, é igual ao número).
+Escreva um programa que verifique se uma string é um palíndromo.
+Crie um programa que, dado um valor em reais, determine a menor quantidade de notas necessárias para atingir esse valor.
+Dado o dia e o mês, determine o signo do zodíaco de uma pessoa.
+Escreva um programa que, dado um número, retorne "Fizz" se for divisível por 3, "Buzz" se for divisível por 5 e "FizzBuzz" se for divisível por ambos.
+Dado um número, verifique se ele é um número de Armstrong (a soma dos cubos de seus dígitos é igual ao número).
+Escreva um programa que aceite um número e verifique se ele é um número de Narciso (a soma de seus dígitos elevados à quantidade total de dígitos é igual ao número).
